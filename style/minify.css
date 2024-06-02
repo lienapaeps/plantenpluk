@@ -6,3 +6,7 @@ a,body{color:var(--off-black)}.mobile-nav a,header{display:flex;padding:1rem 2re
     align-items: center;
     margin-top: 12rem;
 }
+
+.code {
+    background-color: #111;
+}
